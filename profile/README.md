@@ -4,7 +4,8 @@ Fire Tools builds privacy-first personal finance tools that keep your data under
 
 Our desktop app (currently in beta) is available in the [Fire Tools app repository](https://github.com/fire-tools-inc/app).
 
-From an idea of [Matteo Bianchi](https://github.com/mbianchidev), who was tired of using Google Spreadsheets for his personal finance and did not want to pay for a personal finance app that:
+From an idea of [Matteo Bianchi](https://github.com/mbianchidev), CEO & Founder of [Synctune](https://github.com/synctune-io) and [Synctune Finance](https://github.com/synctune-finance) who was tired of using Google Spreadsheets for his personal finance and did not want to pay for a personal finance app that:
+
 - Did not have all the functionalities needed, while Fire Tools could;
 - Was sending data here and there, to random adv agencies (best case) or literally anyone (worst case);
 - Had zero security boundaries, no encryption and nobody cared about it;
